@@ -1,6 +1,8 @@
 Flask==3.0.3
 gunicorn==23.0.0
-numpy
-pandas
-scikit-learn
-joblib
+flask-cors==5.0.0
+numpy==2.3.2
+pandas==2.3.2
+scikit-learn==1.7.1
+joblib==1.5.1
+
